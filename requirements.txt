@@ -1,0 +1,7 @@
+streamlit
+google-genai
+Pillow
+requests
+python-dotenv
+cloudinary
+APScheduler>=3.10,<4
